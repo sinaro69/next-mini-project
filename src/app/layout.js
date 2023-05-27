@@ -12,9 +12,9 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: 'Shopify',
   description: 'In an online product store, customers can browse and purchase products from the comfort of their own home using a computer or mobile device. ',
-  thumbnail: 'https://play-lh.googleusercontent.com/PaSl-oIRK6C8AoKsAcNtBUNmN5jb2n2AaPHRhlxor_DJAxUG3UAETE7CDmTkn9Duwq0=s256-rw',
+  thumbnail: 'https://media-cdn.tripadvisor.com/media/photo-s/06/98/e1/a7/nhung-cloth-shop.jpg',
   openGraph: {
-    images: ['https://play-lh.googleusercontent.com/PaSl-oIRK6C8AoKsAcNtBUNmN5jb2n2AaPHRhlxor_DJAxUG3UAETE7CDmTkn9Duwq0=s256-rw'],
+    images: ['https://media-cdn.tripadvisor.com/media/photo-s/06/98/e1/a7/nhung-cloth-shop.jpg'],
   },
 }
 
